@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShiftFlow</string>
+    <string name="mode_employee_mobile">Employee App</string>
+    <string name="mode_manager_web">Manager Web Grid</string>
+    <string name="call_out_sick">Call out sick</string>
+    <string name="request_swap">Request swap</string>
+    <string name="submit_availability">Submit availability</string>
+    <string name="confirm_call_out">Confirm call-out</string>
+    <string name="send_cover_request_top_3">Send cover request to next 3</string>
+    <string name="publish_roster">Publish roster</string>
+    <string name="auto_fill_availability">Auto-fill from availability</string>
+    <string name="request_availability">Request availability</string>
+    <string name="accept_shift">Accept shift</string>
+    <string name="decline_shift">Decline</string>
+</resources>

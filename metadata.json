@@ -1,0 +1,6 @@
+{
+  "name": "ShiftFlow",
+  "description": "Employee scheduling, shift swap automation, availability tracking, and web-style roster builder for stores and restaurants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
